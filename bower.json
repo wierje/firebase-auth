@@ -1,0 +1,21 @@
+{
+  "name": "firebase-auth",
+  "homepage": "https://github.com/wierje/firebase-auth",
+  "authors": [
+    "wierje <wier.je@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
